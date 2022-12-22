@@ -1,0 +1,3 @@
+Bootstrap -->
+class="g-0" -->  removed default padding,margin 
+class ="dropdown-toggle" --> visibility set
